@@ -1,0 +1,149 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+      "type":"Feature",
+      "properties":{
+      "name": "Egypt",
+      "type": "Country",
+      "regions": " North Africa and Southwest Asia.",
+      "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/130px-Flag_of_Egypt.svg.png",
+      "imageCaption": "Egypt",
+      "imageCopyright": "Copyright goes here",
+      "imageCopyrightUrl": "https://google.com",
+      "source": "Wikipedia",
+      "sourceUrl": "./egypt.html",
+      "sourceCopyright": "CC BY-SA 3.0",
+      "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               86.925061,
+               27.988271
+            ]
+         }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+        "name": "United States",
+        "type": "Country",
+        "regions": " North America",
+        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+        "imageCaption": "US",
+        "imageCopyright": "Copyright goes here",
+        "imageCopyrightUrl": "https://google.com",
+        "source": "Wikipedia",
+        "sourceUrl": "./us.html",
+        "sourceCopyright": "CC BY-SA 3.0",
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               37.0902405,
+               -95.7128906
+            ]
+         }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+        "name": "China",
+        "type": "Country",
+        "regions": " Southeast Asia.",
+        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+        "imageCaption": "China",
+        "imageCopyright": "Copyright goes here",
+        "imageCopyrightUrl": "https://google.com",
+        "source": "Wikipedia",
+        "sourceUrl": "./china.html",
+        "sourceCopyright": "CC BY-SA 3.0",
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35.86166,
+               104.1953964
+            ]
+         }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+        "name": "Brazil",
+        "type": "Country",
+        "regions": " South America.",
+        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+        "imageCaption": "Brazil",
+        "imageCopyright": "Copyright goes here",
+        "imageCopyrightUrl": "https://google.com",
+        "source": "Wikipedia",
+        "sourceUrl": "./Brazil.html",
+        "sourceCopyright": "CC BY-SA 3.0",
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -14.2350044,
+               -51.9252815
+            ]
+         }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+        "name": "Australia",
+        "type": "Country",
+        "regions": " Australian continent.",
+        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+        "imageCaption": "Australia",
+        "imageCopyright": "Copyright goes here",
+        "imageCopyrightUrl": "https://google.com",
+        "source": "Wikipedia",
+        "sourceUrl": "./australia.html",
+        "sourceCopyright": "CC BY-SA 3.0",
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -25.2743988,
+               133.7751312
+            ]
+         }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+        "name": "Italy",
+        "type": "Country",
+        "regions": "south-central Europe.",
+        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "imageCaption": "Italy",
+        "imageCopyright": "Copyright goes here",
+        "imageCopyrightUrl": "https://google.com",
+        "source": "Wikipedia",
+        "sourceUrl": "./italy.html",
+        "sourceCopyright": "CC BY-SA 3.0",
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               41.8719406,
+               12.56738
+            ]
+         }
+      }
+   ]
+}
