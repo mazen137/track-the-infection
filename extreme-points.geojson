@@ -7,21 +7,20 @@
       "name": "Egypt",
       "type": "Country",
       "regions": " North Africa and Southwest Asia.",
-      "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/130px-Flag_of_Egypt.svg.png",
+      "warnings": "In Egypt the government has taken some precautions and instructions to the Egyptians such as:\n\n1.Closing schools, mosques, and churches\n2.The lockdown after 6 P.M. till 6 A.M\n3.Closing restaurants (except for delivery)\n4.Transportation is closed after 7 P.M.\n5.Sterilization of the schools and spreading awareness among Egyptians about the importance of medical masks and gloves.\n6.A hard lockdown will be in the work to flatten the curve of the spread of the virus in case we reached 1000 cases per day and so it’s predicted to work soon.\n\nthe most crowded cities:\n1.Cairo\n2.Alexandria\n3.Giza\n4.Port Said\n5.Suez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
       "imageCaption": "Egypt",
-      "imageCopyright": "Copyright goes here",
+      "imageCopyright": "Wikipedia",
       "imageCopyrightUrl": "https://google.com",
-      "source": "Wikipedia",
       "sourceUrl": "./egypt.html",
-      "sourceCopyright": "CC BY-SA 3.0",
-      "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+      "sourceCopyright": "none",
+      "sourceCopyrightUrl": "none"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               86.925061,
-               27.988271
+               30.033333,
+               31.233334
             ]
          }
       },
@@ -31,21 +30,21 @@
         "name": "United States",
         "type": "Country",
         "regions": " North America",
-        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "warnings": "In order to handle the spread of the Covid-19 Pandemic, The president of the US Donald Trump stated that he would never hesitate to take any actions to protect lives, safety and health of the American people. His serious actions are as follows :\n\n1.He did agreements with Canada and Mexico to prevent residents from non-essential travel across the countries\n2.President  Donald Trump took action early to restrict travel from China to control the spread of Covid-19 to the United states .\n3.He took further action to restrict travelling from other impacted areas, including Europe, Iran, Ireland , and the United Kingdom.\n4.He stated that before any trade or business to be held, workers health will be checked first .\n\nThe most crowded cities:\n1.New York City\n2.Los Angeles\n3.Chicago\n4.Brooklyn\n5.Houston",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
         "imageCaption": "US",
         "imageCopyright": "Copyright goes here",
         "imageCopyrightUrl": "https://google.com",
         "source": "Wikipedia",
         "sourceUrl": "./us.html",
-        "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+        "sourceCopyright": "none",
+        "sourceCopyrightUrl": "none"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               37.0902405,
-               -95.7128906
+               -89.500000,
+                44.500000	
             ]
          }
       },
@@ -55,21 +54,22 @@
         "name": "China",
         "type": "Country",
         "regions": " Southeast Asia.",
-        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "warnings": "China, the penalty reaches death: starting in China, the virus that bears the brunt of its spread before it succeeds in finding it thanks to a set of criminal sanctions that have been imposed on anyone who violates preventive measures in the affected areas. It included a list of sanctions imposed by China\n\n1.A fine of € 206 for anyone who violates the unrestricted restraint system.\n2.And a 3-month prison sentence for health violators\n3.Whoever hides the symptoms or notices the symptoms of the disease and does not go to the hospital, shall be punished with death\n4.Companies in China have advised their employees to work from home, to slow the spread of the deadly coronavirus.\n\n the most crowded cities:\n1.Shanghai\n2.Beijing\n3.Tianjin\n4.Guangzhou\n5.Shenzhen",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
         "imageCaption": "China",
-        "imageCopyright": "Copyright goes here",
-        "imageCopyrightUrl": "https://google.com",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "Wikipedia",
         "source": "Wikipedia",
         "sourceUrl": "./china.html",
-        "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+        "sourceCopyright": "none",
+        "sourceCopyrightUrl": "none"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               35.86166,
-               104.1953964
+               104.1953964,
+               35.86166
+               
             ]
          }
       },
@@ -79,21 +79,22 @@
         "name": "Brazil",
         "type": "Country",
         "regions": " South America.",
-        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "warnings": "Although the Brazilian president Jair Bolsonaro standing against lookdown instructions and pushing his citizens to ignore social distancing instructions and the restrictions that should be followed urgently, some local groups and  private donors stood up to help the citizens respond to COVID-1.\n In some areas, some “block presidents” check on the health of 50 families each, 240 volunteers were trained as emergency first responders, and other health workers provide sick citizens with advice to tell him how to deal with the illness by telemedicine.\n Brazil dosen't hasve high dense population per kilometer\n\n\n\n\n\nmost crowded cities:\n\n1.sao paolo\n2.Rio de Janeiro\n3.Salvador\n4.Fortaleza\n5.Belo Horizonte",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
         "imageCaption": "Brazil",
-        "imageCopyright": "Copyright goes here",
-        "imageCopyrightUrl": "https://google.com",
-        "source": "Wikipedia",
-        "sourceUrl": "./Brazil.html",
-        "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "Wikipedia",
+        "sourceUrl": "./brazil.html",
+        "sourceCopyright": "none",
+        "sourceCopyrightUrl": "none"
+
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               -14.2350044,
-               -51.9252815
+               -51.9252815,
+               -14.2350044
+               
             ]
          }
       },
@@ -103,21 +104,22 @@
         "name": "Australia",
         "type": "Country",
         "regions": " Australian continent.",
-        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "warnings": "Since the pandemic was declared all Australian states went into various levels of lockdown.The federal government announced a three-stage plan to ease coronavirus restrictions across the country, with the goal of reaching stage three by July. Ultimately, though, it is up to each state and territory to decide when and how far they would be relaxing restrictions in the coming months.  While currently we are going through stage 2 which its limitations are the following:\n\nFamily, friends and community:\n1.Gatherings of up to 20 people:\n2.Funerals (max 50)\n3.Recreational travel, camping and accommodation, including caravan parks (anywhere in Queensland)\n\nBusinesses and economy:\n1.Retail shopping\n2.Tourism accommodation\n3.20 people permitted at any one time for different non-essential activites\n\nthe most crowded cities:\n1.Sydney\n2.Melbourne\n3.Brisbane\n4.Perth\n5.Adelaide",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
         "imageCaption": "Australia",
-        "imageCopyright": "Copyright goes here",
-        "imageCopyrightUrl": "https://google.com",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "Wikipedia",
         "source": "Wikipedia",
-        "sourceUrl": "./australia.html",
-        "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+        "sourceUrl": "./aust.html",
+        "sourceCopyright": "none",
+        "sourceCopyrightUrl": "nonne"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               -25.2743988,
-               133.7751312
+               133.7751312,
+               -25.2743988
+               
             ]
          }
       },
@@ -127,21 +129,22 @@
         "name": "Italy",
         "type": "Country",
         "regions": "south-central Europe.",
-        "warnings": "fourlinesbriefparagraphds;mfksllngfldgnfdgnfdlgnfdklgnfdlgnflgnfdlkgnfdlkgnfdlgnlkfdnglkfdnglkfdnlngklfndklgnflnglfdknglkfnglkdnglkfdnglkfndglkfnglkfdnglfnglfdnglkfndgkldngklnfdlgnldngflkdnglkfdnglfkdnglkdfnglkfdnglkdfnglkfdnglkfngkldnlknflnlnfdlngdfln",
+        "warnings": "Italy government has gone through difficult time as the number of cases was rapidly increasing and a lot of residents died in a short period of time. As a result, the government had to take some actions and roles to get sure of its citizen’s safety and health.  These measures were held after the death of a 78-year-old Italian citizen in the Veneto region. Some of them are listed below :\n\n1.They applied tests to everyone that worked with the first infected man to get sure they are non-infected.\n2.They warned residents to avoid crowded places.\n3.At an early stage of the infection, Giuseppe Sala, the mayor of Milan ordered to close all the schools at least for a weak until a later decision comes.\nthe most crowded cities:\n1.Rome\n2.Milan\n3.Naples\n4.Turin\n5.Palermo",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
         "imageCaption": "Italy",
-        "imageCopyright": "Copyright goes here",
-        "imageCopyrightUrl": "https://google.com",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "Wikipedia",
         "source": "Wikipedia",
         "sourceUrl": "./italy.html",
-        "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Egypt"
+        "sourceCopyright": "none",
+        "sourceCopyrightUrl": "none"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               41.8719406,
-               12.56738
+               12.56738,
+               41.8719406
+               
             ]
          }
       }
